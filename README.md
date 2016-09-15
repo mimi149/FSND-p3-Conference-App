@@ -1,4 +1,3 @@
-# p3_Conference_App
 Project 3 for Udacity's Full Stack Web Developer Nanodegree Program.
 
 # Program Description
@@ -13,4 +12,4 @@ Users can also upload/download documents related to the sessions and mark/unmark
 This project focuses on using full stack web development skills to build a web app from the scratch, which can perform user authentications and CRUD functionality.
 
 
-Please read more information in document.pdf (database design and program usage.)
+Please read more information in **document.pdf** (database design and program usage.)
